@@ -31,8 +31,9 @@ $ git clone https://github.com/th3ad1ttya/Admin-panel-Laravel-9
 
 > Step:1= Upload the project in your server.
 > Step:2= Create a new database, than Open '.env' from project root directory. Customize all database information in database config.
+> Step:3= Upload the SQL from Database/admin.sql into your sql database.
 > **Note**: Don't forget to change .env permission.
-> setp:3= goto your server url. example: http://yourdomain.com or https://yourdomain.com/project_directory/.
+> setp:4= goto your server url. example: http://yourdomain.com or https://yourdomain.com/project_directory/.
 
 ```
 
