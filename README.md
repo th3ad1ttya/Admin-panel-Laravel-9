@@ -24,7 +24,7 @@
 To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. And follow the commends:
 
 ```bash
-# Open Android studio
+# Open your command prompt
 
 # Clone this repository
 $ git clone https://github.com/th3ad1ttya/Admin-panel-Laravel-9
