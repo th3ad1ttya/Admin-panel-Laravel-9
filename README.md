@@ -6,7 +6,6 @@
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#compatible-with">Compatible</a> •
   <a href="#credits">Credits</a> •
 </p>
 
@@ -44,10 +43,6 @@ $ git clone https://github.com/th3ad1ttya/Admin-panel-Laravel-9
 -   Password: Admin@123
 
 **Note** Login work email and username (Both), use which one you want.
-
-## Compatible with...
-
--   [This Laravel-9 Backend](https://github.com/th3ad1ttya/Admin-panel-Laravel-9) - Coming soon!
 
 ## Credits
 
