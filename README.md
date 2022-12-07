@@ -43,7 +43,7 @@ $ git clone https://github.com/th3ad1ttya/Admin-panel-Laravel-9
 -   Username: admin123
 -   Password: Admin@123
 
-**Note** Login work email and password, use which one you want.
+**Note** Login work email and username (Both), use which one you want.
 
 ## Compatible with...
 
